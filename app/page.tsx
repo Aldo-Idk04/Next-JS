@@ -36,8 +36,8 @@ export default function Home() {
     const handleDoubleClick = () => {
         const newNote: NoteData = {
             id: Math.random(),
-            title: "",
-            content: "",
+            title: "Test",
+            content: "Template",
             category: 1,
             created_at: new Date(),
             status: 0,

@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Gestión de Notas",
-  description: "Plataforma para gestión de notas de estudiantes",
+  description: "Plataforma de gestion de notas para Estudiantes",
 };
 
 export default function RootLayout({

@@ -67,7 +67,7 @@ const NoteCard = ({ note, onUpdateNote, onDeleteNote }: NoteCardProps) => {
                         type="text"
                         value={editTitle}
                         onChange={(e) => setEditTitle(e.target.value)}
-                        placeholder="Título de la nota"
+                        placeholder="Aldo Vargas"
                         className="text-xl font-semibold text-gray-800 truncate w-full p-2 border rounded"
                     />
                 ) : (

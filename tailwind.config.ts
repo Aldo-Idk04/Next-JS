@@ -9,15 +9,15 @@ export default {
   theme: {
     extend: {
       colors: {
-        black: "#1C1C1C",
+        black: "#00000",
         gray_primary: "#878787",
-        gray_secondary: "#FF0000",
+        gray_secondary: "#BCBCBC",
         blue_category: "#AACAFA",
         orange_category: "#F9DBA1",
         green_category: "#BBFAB5",
       },
       fontFamily: {
-        Anaheim: ["Anaheim", "sans-serif"],
+        Anaheim: ["Pixelify Sans", "sans-serif"],
       },
     },
   },
